@@ -1,0 +1,7 @@
+To use the multiplayer features of this game:
+1.build the game to your pc/mac and copy the build to another pc/mac.
+2.connet the two devices using a local network(i.e.router).
+3.open the game in both devices and choose a decent resolution and set Graghics quality to good (for best results).
+4.make one of these devices a host by clicking "LOCAL HOST(H)" button on the top right of the gameplay screen.
+5.make the other a client by typing your router ipv4 adress in the "localhost" box and then click "LAN Client".
+Note : to modify "greendizer" drag his prefab to the hierarchy view,apply changes to it then apply the changes then delete it. 

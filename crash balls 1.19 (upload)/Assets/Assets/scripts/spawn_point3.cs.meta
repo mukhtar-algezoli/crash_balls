@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 7c9ae263a17777f41b9a69f71d00cb1a
+timeCreated: 1526472774
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - ball_prefab: {fileID: 1688828406547778, guid: ec26a51a382b85a4ea807eaf22ed8b35,
+      type: 2}
+  - mat_1: {fileID: 2100000, guid: a22dc12e1f5c17c4cb7ed6d905caa262, type: 2}
+  - mat_2: {fileID: 2100000, guid: 8946cba7c199a1742a4ef9c68c5d68f9, type: 2}
+  - mat_3: {fileID: 2100000, guid: 168312539f4e07a4787070fe17f84bfd, type: 2}
+  - mat_4: {fileID: 2100000, guid: dd55db364cbf1e94389d6f51c3e3c699, type: 2}
+  - mat_5: {fileID: 2100000, guid: 24eb14526fe85ba44af6bbc1448f9c7f, type: 2}
+  - mat_6: {fileID: 2100000, guid: 9205a53d79d09a4489bf13d353ae5cc6, type: 2}
+  - mat_7: {fileID: 2100000, guid: 68e385f29d08abc4cbe90be811e56ab6, type: 2}
+  - mat_8: {fileID: 2100000, guid: dc966aa21b604964a937eab26457ddbc, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
